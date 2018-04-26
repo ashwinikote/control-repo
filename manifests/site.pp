@@ -29,5 +29,5 @@ node default {
   # This is where you can declare classes for all nodes.
   # Example:
   #   class { 'my_class': }
-  notify{"Hello there!!":}
+  notify{"Hello there!! I am in default node":}
 }
